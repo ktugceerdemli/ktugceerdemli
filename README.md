@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 A newbie Data scientist from Turkey
 --------------
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me!
 
 I am a lifelong learner. After studying neurological cell culture in the Department of Molecular Biology and Genetics for my Master's degree, I decided to develop myself in data science. So I have been developing myself in Python and data science for a while.
 
