@@ -1,29 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Tuğçe
 =============================================================================================================================
 
-Data Scientist
+A newbie Data scientist from Turkey
 --------------
 
 I am a lifelong learner. After studying neurological cell culture in the Department of Molecular Biology and Genetics for my Master's degree, I decided to develop myself in data science. So I have been developing myself in Python and data science for a while.
-
-
-<!--
-**ktugceerdemli/ktugceerdemli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Tuğçe</h1>
-
-<h3 align="center">A newbie Data scientist from Turkey</h3>
 
 - 🔭 I’m currently working on **Miuul DataSciencePath**
 
